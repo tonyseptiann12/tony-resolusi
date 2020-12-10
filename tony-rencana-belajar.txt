@@ -1,5 +1,7 @@
 Rencana Belajar
 
-- JavaScript
+- Javascript
+  * ES6
+  * Framework Javascript
 - React
 - NodeJS
