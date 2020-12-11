@@ -3,6 +3,8 @@ Rencana Belajar
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur Data Dasar
 - React
 - NodeJS
+- Python
