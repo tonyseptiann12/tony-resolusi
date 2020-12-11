@@ -1,0 +1,7 @@
+Rencana Belajar
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- React
+- NodeJS
