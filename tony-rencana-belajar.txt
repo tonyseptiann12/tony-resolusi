@@ -8,3 +8,4 @@ Rencana Belajar
 - React
 - NodeJS
 - Python
+- Full Stack Developer
